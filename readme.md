@@ -31,13 +31,17 @@ roadmap.sh网站现在可以进行交互式操作了，可以点击节点阅读�
 以下是已经翻译的中文版列表：
 
 - 基于角色的路线图
+  - 前端工程师路线图：[英文原版](https://roadmap.sh/frontend) | [中文图片](./public/cnroadmaps/frontend/) | 中文PDF
   - 后端工程师路线图：[英文原版](https://roadmap.sh/backend) | [中文图片](./public/cnroadmaps/backend/) | 中文PDF
   - DevOps路线图：[英文原版](https://roadmap.sh/devops) | [中文图片](./public/cnroadmaps/devops/) | 中文PDF
 - 基于技能的路线图
   - Python路线图：[英文原版](https://roadmap.sh/python) | [中文图片](./public/cnroadmaps/python/) | 中文PDF
+  - Java路线图：[英文原版](https://roadmap.sh/java) | [中文图片](./public/cnroadmaps/java/) | 中文PDF
+
+> 说明：每个路线图的commit日期即为当天路线图的版本
 
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 授权
 
-本翻译项目已获得原作者邮箱许可，版权归原作者所有，更多内容请访问原版网站。
+本翻译项目已于2024年1月3日获得原作者邮箱许可，发布在Fork后的github仓库，版权归原作者所有，更多内容请访问原版网站。**未经原作者许可，不得转载内容至博客、文章、新闻稿等等，具体请查阅该仓库License。**
