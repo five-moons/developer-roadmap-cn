@@ -9,7 +9,9 @@ export interface Props {
 }
 
 export async function getStaticPaths() {
-  const guides = await getAllGuides();
+  const guides = (await getAllGuides()).filter(
+    (guide) => !guide.frontmatter.excludedBySlug,
+  );
 
   return guides.map((guide) => ({
     params: { guideId: guide.id },
